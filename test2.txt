@@ -1,0 +1,3 @@
+Hello
+I am writing random things now
+Just trying to learn how to use the terminal
